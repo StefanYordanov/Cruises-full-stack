@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Lala",
+        "totalPrice": 19.95,
+        "currency": "EUR"
+    },
+    {
+        "id": 2,
+        "name": "Tinki winky",
+        "totalPrice": 19.95,
+        "currency": "LV"
+    },
+    {
+        "id": 3,
+        "name": "Dipsey",
+        "totalPrice": 13.95,
+        "currency": "BGN"
+    }
+
+]

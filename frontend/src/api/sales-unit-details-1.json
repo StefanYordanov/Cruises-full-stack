@@ -1,0 +1,15 @@
+[
+    {
+        "bookingId": 1,
+        "shipName": "NooNoo",
+        "price": 15.00,
+        "currency": "EUR"
+    },
+    {
+        "bookingId": 2,
+        "shipName": "Creepy Sun Baby",
+        "price": 13.70,
+        "currency": "EUR"
+    }
+
+]

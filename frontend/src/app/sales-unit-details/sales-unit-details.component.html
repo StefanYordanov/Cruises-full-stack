@@ -1,0 +1,13 @@
+<div class="row">
+        <div class="grey lighten-3" *ngFor='let salesUnitsDetails of salesUnitDetailsList'>
+            <div class="col s12 m6 l4 green lighten-3 z-depth-5">
+                <div class="card green lighten-1">
+                    <div class="card-content white-text">
+                        <span class="card-title truncate">{{salesUnitsDetails.shipName}}</span>
+                        <p>Id: {{salesUnitsDetails.bookingId}}</p>
+                        <p>{{salesUnitsDetails.price + ' ' + salesUnitsDetails.currency}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
